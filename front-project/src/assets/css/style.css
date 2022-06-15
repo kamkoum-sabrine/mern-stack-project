@@ -1,0 +1,11 @@
+.loader {
+    position : fixed;
+    transition-duration: 3000ms;
+    z-index: 9999;
+    background : url('fast-unscreen.gif') 50% 50% no-repeat;
+    top : 0px;
+    left : 0px;
+    height : 100%;
+    width : 100%;
+    cursor : wait;
+    }
